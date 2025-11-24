@@ -1,3 +1,13 @@
+// Checking for an Anagram
+// Difficulty: Easy
+// Topics: String Manipulation
+// Description: Write a program to check if two strings are anagrams.
+// Example:
+// Input: string1 = "listen", string2 = "silent"
+// Output: True
+// Explanation: "listen" and "silent" are anagrams of each other.
+
+
 #include <iostream>
 using namespace std;
 

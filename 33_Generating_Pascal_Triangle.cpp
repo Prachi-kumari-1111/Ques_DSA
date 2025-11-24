@@ -1,3 +1,12 @@
+// Generating a Pascal’s Triangle
+// Difficulty: Medium
+// Topics: Arrays, Mathematical Computations
+// Description: Write a program to generate Pascal's Triangle up to a given number of rows.
+// Example:
+// Input: rows = 4
+// Output:
+
+
 #include <iostream>
 using namespace std;
 
